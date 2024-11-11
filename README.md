@@ -55,3 +55,6 @@ npm run seed
    ```bash
    npm start
    ```
+
+   # Video Tutorial below
+   [Link](https://www.youtube.com/watch?v=KyWhzCZssHo)
